@@ -3,240 +3,280 @@
     "id": "7290102398065",
     "name": "חלב 3% קרטון מהדרין",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102398065.jpg?_a=1665054132273",
+    "category": "milk",
     "price": 12.46
   },
   {
     "id": "7290114311458",
     "name": "חלב מעושר",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290114311458.jpg?_a=1664765883084",
+    "category": "milk",
     "price": 7.1
   },
   {
     "id": "7290106728127",
     "name": "חלב טבעי 3.6% בקבוק",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290106728127.jpg?_a=1664191338936",
+    "category": "milk",
     "price": 7.6
   },
   {
     "id": "7290003029815",
     "name": "חלב מועשר 3% בקבוק",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003029815.jpg?_a=1664473554145",
+    "category": "milk",
     "price": 14.9
   },
   {
     "id": "7290107932080",
     "name": "חלב מועשר 3% בקבוק",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290107932080.jpg?_a=1664194741630",
+    "category": "milk",
     "price": 7.6
   },
   {
     "id": "7290004131074",
     "name": "חלב 3% קרטון - בפיקוח",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004131074.jpg?_a=1664187398471",
+    "category": "milk",
     "price": 6.23
   },
   {
     "id": "7290000056845",
     "name": "חלב 3% קרטון - בפיקוח",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000056845.jpg?_a=1664185830995",
+    "category": "milk",
     "price": 9.35
   },
   {
     "id": "7290000051352",
     "name": "חלב מלא בטעם של פעם 3.8% קרטון",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000051352.jpg?_a=1664185769755",
+    "category": "milk",
     "price": 7.5
   },
   {
     "id": "7290102398331",
     "name": "חלב דל לקטוז מועשר 2% בקבוק",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102398331.jpg?_a=1664765608325",
+    "category": "milk",
     "price": 7.5
   },
   {
     "id": "7290114310239",
     "name": "חלב נטול לקטוז מועשר 2%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290114310239.jpg?_a=1664765801492",
+    "category": "milk",
     "price": 12.5
   },
   {
     "id": "7290114311328",
     "name": "חלב נטול לקטוז מועשר בויטמין D",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290114311328.jpg?_a=1660316624903",
+    "category": "milk",
     "price": 7.5
   },
   {
     "id": "7290110563462",
     "name": "חלב מועשר נטול לקטוז 2% בקבוק",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110563462.jpg?_a=1664194681310",
+    "category": "milk",
     "price": 7.9
   },
   {
     "id": "7290000040974",
     "name": "חלב דל לקטוז 2% קרטון",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000040974.jpg?_a=1664185780091",
+    "category": "milk",
     "price": 7
   },
   {
     "id": "7290102392254",
     "name": "חלב 1%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102392254.jpg?_a=1665054151955",
+    "category": "milk",
     "price": 11.72
   },
   {
     "id": "7290000474090",
     "name": "חלב 1% קרטון",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000474090.jpg?_a=1665054156140",
+    "category": "milk",
     "price": 5.86
   },
   {
     "id": "7290107932134",
     "name": "חלב מועשר 1% בקבוק",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290107932134.jpg?_a=1664191302874",
+    "category": "milk",
     "price": 7.6
   },
   {
     "id": "7290000042435",
     "name": "חלב 1% קרטון",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000042435.jpg?_a=1664185784847",
+    "category": "milk",
     "price": 5.86
   },
   {
     "id": "7290014758162",
     "name": "חלב עיזים 3.6% קרטון",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014758162.jpg?_a=1664187847288",
+    "category": "milk",
     "price": 15
   },
   {
     "id": "7290112343420",
     "name": "פרו 20 משקה חלב עם דגנים מלאים ובננה 1.7%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290112343420.jpg?_a=1664191403532",
+    "category": "milk",
     "price": 6.9
   },
   {
     "id": "7290110568276",
     "name": "פרו 25 משקה בטעם וניל עם חלבון חלב 1.5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110568276.jpg?_a=1664194750739",
+    "category": "milk",
     "price": 6.5
   },
   {
     "id": "7290107954976",
     "name": "פרו 25 משקה קפה עם חלבון חלב 1.5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290107954976.jpg?_a=1664194751287",
+    "category": "milk",
     "price": 6.5
   },
   {
     "id": "7290110325893",
     "name": "גו משקה בטעם אייס קפה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110325893.jpg?_a=1652211439743",
+    "category": "milk",
     "price": 7.9
   },
   {
     "id": "7290114311014",
     "name": "אייס קפוצ'ינו משקה חלב עם קפה 1.5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290114311014.jpg?_a=1664765864326",
+    "category": "milk",
     "price": 5.2
   },
   {
     "id": "7290102398669",
     "name": "אייס קפוצ'ינו משקה חלב עם קפה 1.5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102398669.jpg?_a=1664765759137",
+    "category": "milk",
     "price": 12.1
   },
   {
     "id": "7290011438142",
     "name": "אייס קפה משקה חלב עם קפה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290011438142.jpg?_a=1652203965257",
+    "category": "milk",
     "price": 6.3
   },
   {
     "id": "7290003029907",
     "name": "משקה חלב אייס קפה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003029907.jpg?_a=1664189953635",
+    "category": "milk",
     "price": 11.9
   },
   {
     "id": "7290110563431",
     "name": "משקה קפה קר קלאסי 1.6% 230מ\"ל יטבתה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110563431.jpg?_a=1664191475253",
+    "category": "milk",
     "price": 7.9
   },
   {
     "id": "7290114310611",
     "name": "משקה חלב בטעם בננה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290114310611.jpg?_a=1664765797778",
+    "category": "milk",
     "price": 5.2
   },
   {
     "id": "7290102398614",
     "name": "משקה חלב בטעם בננה ללא תוספת סוכר",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102398614.jpg?_a=1664765676287",
+    "category": "milk",
     "price": 12.1
   },
   {
     "id": "7290003029372",
     "name": "משקה חלב בטעם בננה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003029372.jpg?_a=1664193650434",
+    "category": "milk",
     "price": 11.9
   },
   {
     "id": "7290003029532",
     "name": "משקה חלב בטעם מוקה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003029532.jpg?_a=1664189962298",
+    "category": "milk",
     "price": 11.9
   },
   {
     "id": "7290114311021",
     "name": "משקה חלב בטעם וניל עוגיות",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290114311021.jpg?_a=1664765861503",
+    "category": "milk",
     "price": 5.2
   },
   {
     "id": "7290102398577",
     "name": "משקה חלב בטעם שוקו ללא תוספת סוכר",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102398577.jpg?_a=1664765674024",
+    "category": "milk",
     "price": 5.2
   },
   {
     "id": "7290102398560",
     "name": "משקה חלב בטעם שוקו ללא תוספת סוכר",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102398560.jpg?_a=1664765672703",
+    "category": "milk",
     "price": 12.1
   },
   {
     "id": "7290114310628",
     "name": "משקה חלב וניל עוגיות 1ליטר",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290114310628.jpg?_a=1664765861732",
+    "category": "milk",
     "price": 12.1
   },
   {
     "id": "7290003029792",
     "name": "משקה שוקו 8 יחידות",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003029792.jpg?_a=1664191290781",
+    "category": "milk",
     "price": 19.9
   },
   {
     "id": "7290003029433",
     "name": "שוקו משקה חלב עם קקאו",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003029433.jpg?_a=1652254755042",
+    "category": "milk",
     "price": 5.5
   },
   {
     "id": "7290000042855",
     "name": "שוקו משקה חלב עם קקאו",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000042855.jpg?_a=1651172916708",
+    "category": "milk",
     "price": 2.5
   },
   {
     "id": "7290003029181",
     "name": "שוקו משקה חלב עם קקאו",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003029181.jpg?_a=1664193582627",
+    "category": "milk",
     "price": 11.9
   },
   {
     "id": "7290004126872",
     "name": "משקה שוקו",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004126872.jpg?_a=1664187370361",
+    "category": "milk",
     "price": 5.9
   }
 ]

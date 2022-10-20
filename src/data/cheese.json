@@ -3,600 +3,700 @@
     "id": "7290005992575",
     "name": "גבינה בולגרית למריחה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290005992575.jpg?_a=1660307106305",
-    "price": 16.9
+    "price": 16.9,
+    "category":"cheese"
   },
   {
     "id": "7290011499105",
     "name": "גבינה בולגרית מסורתית 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290011499105.jpg?_a=1664764159838",
-    "price": 23.9
+    "price": 23.9,
+    "category":"cheese"
   },
   {
     "id": "7290017065236",
     "name": "גבינה בולגרית מעודנת 24%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290017065236.jpg?_a=1650255357299",
-    "price": 23.9
+    "price": 23.9,
+    "category":"cheese"
   },
   {
     "id": "7290011499327",
     "name": "גבינה בולגרית מעודנת במי מלח 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290011499327.jpg?_a=1664764164052",
-    "price": 22.9
+    "price": 22.9,
+    "category":"cheese"
   },
   {
     "id": "7290006492616",
     "name": "גבינה בולגרית מעודנת פרוסות 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290006492616.jpg?_a=1650256679514",
-    "price": 25.9
+    "price": 25.9,
+    "category":"cheese"
   },
   {
     "id": "7290002107798",
     "name": "גבינה בולגרית מעודנת 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290002107798.jpg?_a=1664765335574",
-    "price": 24.1
+    "price": 24.1,
+    "category":"cheese"
   },
   {
     "id": "7290004120573",
     "name": "גבינה בולגרית 16%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004120573.jpg?_a=1664186074715",
-    "price": 22.9
+    "price": 22.9,
+    "category":"cheese"
   },
   {
     "id": "7290004120566",
     "name": "גבינה בולגרית 24%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004120566.jpg?_a=1664186074183",
-    "price": 22.9
+    "price": 22.9,
+    "category":"cheese"
   },
   {
     "id": "7290004120634",
     "name": "גבינה בולגרית 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004120634.jpg?_a=1664186079911",
-    "price": 21.9
+    "price": 21.9,
+    "category":"cheese"
   },
   {
     "id": "7290110320591",
     "name": "גבינה בולגרית במרקם מעודן 16%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110320591.jpg?_a=1662386931579",
-    "price": 21.9
+    "price": 21.9,
+    "category":"cheese"
   },
   {
     "id": "7290014759534",
     "name": "גבינה בולגרית למריחה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014759534.jpg?_a=1664187743372",
-    "price": 14.3
+    "price": 14.3,
+    "category":"cheese"
   },
   {
     "id": "7290004121853",
     "name": "גבינה בולגרית קוביות 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004121853.jpg?_a=1664187209861",
-    "price": 21.9
+    "price": 21.9,
+    "category":"cheese"
   },
   {
     "id": "7290004225285",
     "name": "גבינה בסגנון דנאבול",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004225285.jpg?_a=1662075324492",
     "price": 9.9
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290102393268",
     "name": "גבינה לבנה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102393268.jpg?_a=1664765578838",
-    "price": 10.9
+    "price": 10.9,
+    "category":"cheese"
   },
   {
     "id": "7290010945481",
     "name": "גבינה לבנה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290010945481.jpg?_a=1664765292512",
-    "price": 9.96
+    "price": 9.96,
+    "category":"cheese"
   },
   {
     "id": "7290000474502",
     "name": "גבינה לבנה 5% - בפיקוח",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000474502.jpg?_a=1664765238316",
-    "price": 4.98
+    "price": 4.98,
+    "category":"cheese"
   },
   {
     "id": "7290000474540",
     "name": "טוב טעם גבינה לבנה 3%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000474540.jpg?_a=1664765292195",
-    "price": 11.5
+    "price": 11.5,
+    "category":"cheese"
   },
   {
     "id": "7290006664310",
     "name": "סקי גבינה לבנה 3%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290006664310.jpg?_a=1660321290215",
     "price": 4.7
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290002824183",
     "name": "סקי גבינה לבנה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290002824183.jpg?_a=1664194720125",
     "price": 9.5
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290005838972",
     "name": "סקי גבינה לבנה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290005838972.jpg?_a=1664189914346",
     "price": 3.1
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290002824640",
     "name": "סקי גבינה לבנה 5% - בפיקוח",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290002824640.jpg?_a=1652210421910",
-    "price": 4.75
+    "price": 4.75,
+    "category":"cheese"
   },
   {
     "id": "7290003321292",
     "name": "סקי גבינה לבנה 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003321292.jpg?_a=1664196261805",
     "price": 4.7
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290110327316",
     "name": "ארוחת גבינה לבנה בקטנה בתוספת פריכיות 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110327316.jpg?_a=1652207625102",
     "price": 4.9
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290004127916",
     "name": "גבינה לבנה 0.5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004127916.jpg?_a=1664187320081",
     "price": 9.5
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290004129545",
     "name": "גבינה לבנה 3%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004129545.jpg?_a=1664187322093",
     "price": 4.7
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290004127862",
     "name": "גבינה לבנה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004127862.jpg?_a=1664187243681",
-    "price": 14.94
+    "price": 14.9,
+    "category":"cheese"4
   },
   {
     "id": "7290004127800",
     "name": "גבינה לבנה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004127800.jpg?_a=1664187315450",
-    "price": 9.96
+    "price": 9.96,
+    "category":"cheese"
   },
   {
     "id": "7290000047621",
     "name": "גבינה לבנה 5% - בפיקוח",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000047621.jpg?_a=1664185653263",
-    "price": 4.98
+    "price": 4.98,
+    "category":"cheese"
   },
   {
     "id": "7290000048185",
     "name": "גבינה לבנה 5% - בפיקוח",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000048185.jpg?_a=1664185651203",
-    "price": 4.98
+    "price": 4.98,
+    "category":"cheese"
   },
   {
     "id": "7290004127817",
     "name": "גבינה לבנה 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004127817.jpg?_a=1664187311615",
     "price": 9.5
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290000048192",
     "name": "גבינה לבנה 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000048192.jpg?_a=1664185646094",
     "price": 4.7
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290000047942",
     "name": "גבינה לבנה 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000047942.jpg?_a=1664185645055",
     "price": 4.7
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290000047546",
     "name": "כנען גבינה לבנה דלת נתרן 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000047546.jpg?_a=1664185644686",
-    "price": 23.9
+    "price": 23.9,
+    "category":"cheese"
   },
   {
     "id": "7290014692541",
     "name": "אמה מגורדת 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014692541.jpg?_a=1641326502424",
-    "price": 19.9
+    "price": 19.9,
+    "category":"cheese"
   },
   {
     "id": "7290000474830",
     "name": "נעם גבינה מגורדת 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000474830.jpg?_a=1664765326090",
-    "price": 34.6
+    "price": 34.6,
+    "category":"cheese"
   },
   {
     "id": "7290003189076",
     "name": "פיצרלה מגורדת 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290003189076.jpg?_a=1630109875682",
-    "price": 20.9
+    "price": 20.9,
+    "category":"cheese"
   },
   {
     "id": "7290000554600",
     "name": "גבינת מוצרלה מגוררת 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000554600.jpg?_a=1664764330864",
-    "price": 24.5
+    "price": 24.5,
+    "category":"cheese"
   },
   {
     "id": "7290002281498",
     "name": "צהובה מגורדת על בסיס חלב",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290002281498.jpg?_a=1662075420866",
-    "price": 22.9
+    "price": 22.9,
+    "category":"cheese"
   },
   {
     "id": "7290110328504",
     "name": "השף הלבן טריו פתיתים מיקס 3 גבינות",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110328504.jpg?_a=1662995566910",
-    "price": 24.9
+    "price": 24.9,
+    "category":"cheese"
   },
   {
     "id": "7290014762909",
     "name": "השף הלבן פתיתי מוצרלה 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014762909.jpg?_a=1664188096260",
-    "price": 15.9
+    "price": 15.9,
+    "category":"cheese"
   },
   {
     "id": "7290004128432",
     "name": "השף הלבן פתיתים מיוחדים לפיצה 26%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004128432.jpg?_a=1664187333489",
-    "price": 21.8
+    "price": 21.8,
+    "category":"cheese"
   },
   {
     "id": "7290110320867",
     "name": "עמק פתיתים גבינה חצי קשה מגורדת 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110320867.jpg?_a=1652206808575",
-    "price": 34.9
+    "price": 34.9,
+    "category":"cheese"
   },
   {
     "id": "7290000121031",
     "name": "גבינה מותכת למריחה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000121031.jpg?_a=1662075200974",
     "price": 9.9
-  },
+,
+"category":"cheese"  },
   {
     "id": "3073781161687",
     "name": "גבינה מותכת לה וואש קירי",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/3073781161687.jpg?_a=1630196126973",
-    "price": 19.9
+    "price": 19.9,
+    "category":"cheese"
   },
   {
     "id": "3073781161663",
     "name": "גבינה מותכת לה וואש קירי 8 יח'",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/3073781161663.jpg?_a=1630188895775",
     "price": 9.9
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290000121093",
     "name": "גבינה מותכת בטעם שוויצרי לייט 7%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000121093.jpg?_a=1662075261089",
     "price": 9.9
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290000045573",
     "name": "נעמה גבינה מותכת 25%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000045573.jpg?_a=1664185585994",
-    "price": 14.9
+    "price": 14.9,
+    "category":"cheese"
   },
   {
     "id": "7290102396665",
     "name": "נעם פרוסות גבינה חצי קשה 15%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102396665.jpg?_a=1660325017436",
-    "price": 17.8
+    "price": 17.8,
+    "category":"cheese"
   },
   {
     "id": "7290102396672",
     "name": "נעם פרוסות גבינה חצי קשה 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102396672.jpg?_a=1652393089052",
-    "price": 27.2
+    "price": 27.2,
+    "category":"cheese"
   },
   {
     "id": "7290102394845",
     "name": "נעם פרוסות גבינה חצי קשה 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102394845.jpg?_a=1664765551228",
-    "price": 17.8
+    "price": 17.8,
+    "category":"cheese"
   },
   {
     "id": "7290102395378",
     "name": "נעם פרוסות גבינה חצי קשה קלאסית 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102395378.jpg?_a=1664765607845",
-    "price": 20.9
+    "price": 20.9,
+    "category":"cheese"
   },
   {
     "id": "7290102394463",
     "name": "נעם פרוסות גבינה חצי קשה קלאסית 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102394463.jpg?_a=1664765586004",
-    "price": 29.4
+    "price": 29.4,
+    "category":"cheese"
   },
   {
     "id": "7290004256371",
     "name": "צהובה פרוסה על בסיס חלב 27%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004256371.jpg?_a=1662076093414",
-    "price": 19.9
+    "price": 19.9,
+    "category":"cheese"
   },
   {
     "id": "7290004122195",
     "name": "גוש חלב פרוסות גבינה חצי קשה 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004122195.jpg?_a=1664187387420",
-    "price": 13.8
+    "price": 13.8,
+    "category":"cheese"
   },
   {
     "id": "7290014760912",
     "name": "גוש חלב פרוסות גבינה חצי קשה 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014760912.jpg?_a=1664187794648",
-    "price": 25.9
+    "price": 25.9,
+    "category":"cheese"
   },
   {
     "id": "7290000046327",
     "name": "גלבוע פרוסות גבינה חצי קשה 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000046327.jpg?_a=1664185588431",
-    "price": 12.9
+    "price": 12.9,
+    "category":"cheese"
   },
   {
     "id": "7290014760448",
     "name": "גלבוע פרוסות גבינה חצי קשה 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014760448.jpg?_a=1664187791712",
-    "price": 22.9
+    "price": 22.9,
+    "category":"cheese"
   },
   {
     "id": "7290014758148",
     "name": "גלבוע פרוסות גבינה חצי קשה 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014758148.jpg?_a=1664187848468",
-    "price": 20.5
+    "price": 20.5,
+    "category":"cheese"
   },
   {
     "id": "7290110324872",
     "name": "גלבוע פרוסות גבינה חצי קשה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110324872.jpg?_a=1652208323058",
-    "price": 17.9
+    "price": 17.9,
+    "category":"cheese"
   },
   {
     "id": "7290004126674",
     "name": "טל העמק פרוסות גבינה חצי קשה מופחתת שומן 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004126674.jpg?_a=1664187267617",
-    "price": 18.9
+    "price": 18.9,
+    "category":"cheese"
   },
   {
     "id": "7290004122270",
     "name": "עמק  קלאסית פרוסות גבינה חצי קשה 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004122270.jpg?_a=1664187255288",
-    "price": 16.1
+    "price": 16.1,
+    "category":"cheese"
   },
   {
     "id": "7290004137311",
     "name": "עמק פרוסות גבינה חצי קשה 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004137311.jpg?_a=1664187321825",
-    "price": 30.8
+    "price": 30.8,
+    "category":"cheese"
   },
   {
     "id": "7290000052311",
     "name": "עמק פרוסות גבינה חצי קשה מופחתת שומן 15%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000052311.jpg?_a=1664185650117",
-    "price": 16.1
+    "price": 16.1,
+    "category":"cheese"
   },
   {
     "id": "7290004122348",
     "name": "עמק פרוסות גבינה חצי קשה מופחתת שומן 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004122348.jpg?_a=1664187260536",
-    "price": 16.9
+    "price": 16.9,
+    "category":"cheese"
   },
   {
     "id": "7290000057088",
     "name": "עמק קלאסית דק דק פרוסות גבינה חצי קשה 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000057088.jpg?_a=1664185835136",
-    "price": 16.3
+    "price": 16.3,
+    "category":"cheese"
   },
   {
     "id": "7290004125776",
     "name": "עמק קלאסית פרוסות גבינה חצי קשה 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004125776.jpg?_a=1664187252553",
-    "price": 27.8
+    "price": 27.8,
+    "category":"cheese"
   },
   {
     "id": "7290000057118",
     "name": "עמק קלאסית פרוסות גבינה חצי קשה 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000057118.jpg?_a=1664185834875",
-    "price": 20.9
+    "price": 20.9,
+    "category":"cheese"
   },
   {
     "id": "7290000056760",
     "name": "עמק קלאסית פרוסות גבינה חצי קשה 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000056760.jpg?_a=1664185665476",
-    "price": 29.2
+    "price": 29.2,
+    "category":"cheese"
   },
   {
     "id": "7290014761698",
     "name": "עמק קלאסית פרוסות גבינה חצי קשה 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014761698.jpg?_a=1664188229588",
-    "price": 29.9
+    "price": 29.9,
+    "category":"cheese"
   },
   {
     "id": "7290000554457",
     "name": "גבינה צפתית במליחות עדינה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000554457.jpg?_a=1664764384336",
-    "price": 19.9
+    "price": 19.9,
+    "category":"cheese"
   },
   {
     "id": "7290000554532",
     "name": "גבינה צפתית מעודנת 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000554532.jpg?_a=1650261213658",
-    "price": 14.9
+    "price": 14.9,
+    "category":"cheese"
   },
   {
     "id": "7290000048437",
     "name": "גבינה צפתית 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000048437.jpg?_a=1664185603180",
-    "price": 14.9
+    "price": 14.9,
+    "category":"cheese"
   },
   {
     "id": "7290004131814",
     "name": "גבינה צפתית מעודנת 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004131814.jpg?_a=1664187273282",
-    "price": 14.9
+    "price": 14.9,
+    "category":"cheese"
   },
   {
     "id": "7290011499051",
     "name": "גבינה פטה כבשים מלוחה 20%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290011499051.jpg?_a=1664764385807",
-    "price": 25.9
+    "price": 25.9,
+    "category":"cheese"
   },
   {
     "id": "7290002830948",
     "name": "גבינת עיזים מותכת 58%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290002830948.jpg?_a=1662075284874",
     "price": 9.9
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290011499303",
     "name": "גבינה פטה עיזים מעודנת 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290011499303.jpg?_a=1650254191109",
-    "price": 30.9
+    "price": 30.9,
+    "category":"cheese"
   },
   {
     "id": "7290006492852",
     "name": "גבינת עיזים למריחה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290006492852.jpg?_a=1664764152829",
-    "price": 16.9
+    "price": 16.9,
+    "category":"cheese"
   },
   {
     "id": "7290006492630",
     "name": "גדעז גבינת שמנת מחלב עיזים 20%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290006492630.jpg?_a=1664764152208",
-    "price": 19.9
+    "price": 19.9,
+    "category":"cheese"
   },
   {
     "id": "7290002107491",
     "name": "גבינה עיזים למריחה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290002107491.jpg?_a=1664765368527",
-    "price": 16.7
+    "price": 16.7,
+    "category":"cheese"
   },
   {
     "id": "7290002107385",
     "name": "מה עז גבינה מחלב עיזים",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290002107385.jpg?_a=1664765353133",
-    "price": 24.7
+    "price": 24.7,
+    "category":"cheese"
   },
   {
     "id": "7290000045917",
     "name": "פרומעז גבינה מותכת מחלב עיזים 23%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000045917.jpg?_a=1664185583272",
-    "price": 25.9
+    "price": 25.9,
+    "category":"cheese"
   },
   {
     "id": "7290014692305",
     "name": "גבינת קממבר",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014692305.jpg?_a=1641326128872",
-    "price": 14.9
+    "price": 14.9,
+    "category":"cheese"
   },
   {
     "id": "7290000040301",
     "name": "גבינת עין גדי קממבר",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000040301.jpg?_a=1664185583344",
-    "price": 17.8
+    "price": 17.8,
+    "category":"cheese"
   },
   {
     "id": "7290011499365",
     "name": "גבינת חלומי 24%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290011499365.jpg?_a=1664764156899",
-    "price": 21.9
+    "price": 21.9,
+    "category":"cheese"
   },
   {
     "id": "7290102393718",
     "name": "גבינת חלומי 28%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102393718.jpg?_a=1664765581517",
-    "price": 20.9
+    "price": 20.9,
+    "category":"cheese"
   },
   {
     "id": "7290110324070",
     "name": "גבינת חלומי מחלב בקר 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110324070.jpg?_a=1652203548146",
-    "price": 19.9
+    "price": 19.9,
+    "category":"cheese"
   },
   {
     "id": "7290005992735",
     "name": "גבינת לאבנה 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290005992735.jpg?_a=1664764335069",
-    "price": 11.9
+    "price": 11.9,
+    "category":"cheese"
   },
   {
     "id": "7290000554686",
     "name": "גבינת לאבנה בתוספת שמן זית וזעתר 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000554686.jpg?_a=1664764284830",
-    "price": 13.9
+    "price": 13.9,
+    "category":"cheese"
   },
   {
     "id": "7290006492685",
     "name": "גבינת לאבנה עיזים 5%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290006492685.jpg?_a=1664764284659",
-    "price": 16.9
+    "price": 16.9,
+    "category":"cheese"
   },
   {
     "id": "7290004128333",
     "name": "גבינת לאבנה על בסיס יוגורט 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290004128333.jpg?_a=1664187270342",
-    "price": 19.5
+    "price": 19.5,
+    "category":"cheese"
   },
   {
     "id": "7290106663091",
     "name": "גבינת לאבנה 9%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290106663091.jpg?_a=1664473530616",
-    "price": 17.9
+    "price": 17.9,
+    "category":"cheese"
   },
   {
     "id": "7290102397747",
     "name": "נעם מוצרלה 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290102397747.jpg?_a=1664765647140",
-    "price": 19.9
+    "price": 19.9,
+    "category":"cheese"
   },
   {
     "id": "7290006492432",
     "name": "גבינת מוצרלה בייבי 18%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290006492432.jpg?_a=1664764330984",
-    "price": 12.9
+    "price": 12.9,
+    "category":"cheese"
   },
   {
     "id": "7290000554471",
     "name": "גבינת מוצרלה בסגנון איטלקי 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000554471.jpg?_a=1664764285576",
-    "price": 16.9
+    "price": 16.9,
+    "category":"cheese"
   },
   {
     "id": "7290014455320",
     "name": "גבינת מוצרלה פרסקה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290014455320.jpg?_a=1650256244102",
     "price": 8.9
-  },
+,
+"category":"cheese"  },
   {
     "id": "7290017065007",
     "name": "פרוסות גבינת מוצרלה 22%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290017065007.jpg?_a=1650254966205",
-    "price": 17.9
+    "price": 17.9,
+    "category":"cheese"
   },
   {
     "id": "7290000554839",
     "name": "מסקרפונה שמנת מתוקה קשה 40%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290000554839.jpg?_a=1664764330883",
-    "price": 21.9
+    "price": 21.9,
+    "category":"cheese"
   },
   {
     "id": "7290017065212",
     "name": "קרם מסקרפונה 38%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290017065212.jpg?_a=1650257382545",
-    "price": 15.9
+    "price": 15.9,
+    "category":"cheese"
   },
   {
     "id": "7290110321789",
     "name": "השף הלבן גבינת מסקרפונה 38%",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290110321789.jpg?_a=1662069438764",
-    "price": 16.9
+    "price": 16.9,
+    "category":"cheese"
   },
   {
     "id": "7290001482094",
     "name": "פרמז'נו",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290001482094.jpg?_a=1641166320169",
-    "price": 17.9
+    "price": 17.9,
+    "category":"cheese"
   }
 ]

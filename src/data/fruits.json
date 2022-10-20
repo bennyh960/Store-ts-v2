@@ -3,108 +3,126 @@
     "id": "930269",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100591/930269/medium.jpg",
     "name": "אבוקדו",
+    "category": "fruits",
     "price": 8.99
   },
   {
     "id": "930497",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101192/930497/medium.jpg",
     "name": "אגס",
+    "category": "fruits",
     "price": 12.99
   },
   {
     "id": "930488",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101190/930488/medium.jpg",
     "name": "אפרסק",
+    "category": "fruits",
     "price": 9.99
   },
   {
     "id": "930479",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101183/930479/medium.jpg",
     "name": "נקטרינה",
+    "category": "fruits",
     "price": 9.99
   },
   {
     "id": "930257",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100571/930257/medium.jpg",
     "name": "בננות",
+    "category": "fruits",
     "price": 8.99
   },
   {
     "id": "941488",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3155222/941488/medium.jpg",
     "name": "מלון",
+    "category": "fruits",
     "price": 6.99
   },
   {
     "id": "930266",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100577/930266/medium.jpg",
     "name": "ענבים ירוקים",
+    "category": "fruits",
     "price": 24.99
   },
   {
     "id": "137240",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3698887/1372408/medium.jpg",
     "name": "ענבים שחורים",
+    "category": "fruits",
     "price": 19.99
   },
   {
     "id": "100298",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3302711/1002986/medium.jpg",
     "name": "אננס",
+    "category": "fruits",
     "price": 40.99
   },
   {
     "id": "930517",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101202/930517/medium.jpg",
     "name": "אפרסמון",
+    "category": "fruits",
     "price": 15.99
   },
   {
     "id": "947965",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3184513/947965/medium.jpg",
     "name": "גויאבה",
+    "category": "fruits",
     "price": 9.99
   },
   {
     "id": "930253",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100568/930253/medium.jpg",
     "name": "רימון",
+    "category": "fruits",
     "price": 7.99
   },
   {
     "id": "930408",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101131/930408/medium.jpg",
     "name": "לימון",
+    "category": "fruits",
     "price": 9.99
   },
   {
     "id": "930493",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101188/930493/medium.jpg",
     "name": "קלמנטינה",
+    "category": "fruits",
     "price": 6.99
   },
   {
     "id": "940791",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3155174/940791/medium.jpg",
     "name": "תפוזים",
+    "category": "fruits",
     "price": 3.99
   },
   {
     "id": "930449",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101157/930449/medium.jpg",
     "name": "תפוח עץ גאלה",
+    "category": "fruits",
     "price": 9.99
   },
   {
     "id": "930264",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100575/930264/medium.jpg",
     "name": "תפוח עץ גרני סמית",
+    "category": "fruits",
     "price": 9.99
   },
   {
     "id": "940804",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3155181/940804/medium.jpg",
     "name": "תפוח עץ זהוב",
+    "category": "fruits",
     "price": 9.99
   }
 ]

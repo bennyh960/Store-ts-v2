@@ -2,11 +2,10 @@ import { Route, Routes } from "react-router-dom";
 import { Container } from "react-bootstrap";
 import { Home } from "./pages/home";
 import { Store } from "./pages/store";
-import { About } from "./pages/about";
+// import { About } from "./pages/about";
 import { Navbar } from "./components/navbar/navbar";
 import { ShoppingCartProvider } from "./context/ShoppingCartContext";
-import fruitJson from "./data/fruits.json";
-import milkJson from "./data/milk.json";
+
 function App() {
   return (
     <>

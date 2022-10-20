@@ -1,6 +1,6 @@
 import { Stack, Button } from "react-bootstrap";
 import { useShoppingCart } from "../../context/ShoppingCartContext";
-// import storeItems from "../../data/fruits.json";
+import storeItems from "../../data/items.json";
 import { formatCurrency } from "../../utilities/formatCurrency";
 
 interface Product {
@@ -8,15 +8,18 @@ interface Product {
   price: number;
   imgUrl: string;
   id: string;
+  category?: string;
 }
 
 type cartItemProps = {
   id: string;
   quantity: number;
   storeItems: Product[];
+  key?: string;
 };
 
-export const CartItem = ({ id, quantity, storeItems }: cartItemProps) => {
+// export const CartItem = ({ id, quantity, storeItems }: cartItemProps) => {
+export const CartItem = ({ id, quantity }: cartItemProps) => {
   const { removeFromCart } = useShoppingCart();
   const item = storeItems.find((item) => item.id === id);
   if (item == null) return null;

@@ -3,378 +3,441 @@
     "id": "930426",
     "name": "בצל אדום",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101145/930426/medium.jpg",
+    "category": "vegtables",
     "price": 7.9
   },
   {
     "id": "930248",
     "name": "בצל יבש",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100564/930248/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "976959",
     "name": "גזר ארוז",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3300284/976959/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "930669",
     "name": "דלורית",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101312/930669/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "1579328",
     "name": "דלעת",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3795866/1579328/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "930427",
     "name": "חציל",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101144/930427/medium.jpg",
+    "category": "vegtables",
     "price": 7.9
   },
   {
     "id": "936317",
     "name": "חציל בלאדי",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3110682/936317/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "7290112351524",
     "name": "טעם הטבע עלי חסה סלנובה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290112351524.jpg?_a=1664192662452",
+    "category": "vegtables",
     "price": 12.9
   },
   {
     "id": "7290106528949",
     "name": "לקט סלט ערוגות",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290106528949.jpg?_a=1664192000759",
+    "category": "vegtables",
     "price": 11.5
   },
   {
     "id": "7290008644945",
     "name": "סלט המושבה",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290008644945.jpg?_a=1664191937234",
+    "category": "vegtables",
     "price": 10.9
   },
   {
     "id": "7290008644235",
     "name": "עלי בייבי",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290008644235.jpg?_a=1664191939572",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "7290104065934",
     "name": "עלי רוקט",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290104065934.jpg?_a=1664191936843",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "7290106723689",
     "name": "עלי תרד בייבי",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290106723689.jpg?_a=1664192062238",
+    "category": "vegtables",
     "price": 10.9
   },
   {
     "id": "2093353",
     "name": "ג'ינג'ר",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/943862/2093353/medium.jpg",
+    "category": "vegtables",
     "price": 8.9
   },
   {
     "id": "2093324",
     "name": "שורש פטרוזיליה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/219014/2093324/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "930596",
     "name": "ארטישוק ירושלמי",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101237/930596/medium.jpg",
+    "category": "vegtables",
     "price": 12.9
   },
   {
     "id": "941489",
     "name": "קולורבי",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3155215/941489/medium.jpg",
+    "category": "vegtables",
     "price": 8.9
   },
   {
     "id": "930244",
     "name": "כרוב אדום",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100554/930244/medium.jpg",
+    "category": "vegtables",
     "price": 6.9
   },
   {
     "id": "930594",
     "name": "כרוב לבן",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101241/930594/medium.jpg",
+    "category": "vegtables",
     "price": 4.9
   },
   {
     "id": "931648",
     "name": "כרובית",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3102347/931648/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "930606",
     "name": "מלפפון",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101248/930606/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "940823",
     "name": "מלפפון בייבי",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3155186/940823/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "631802",
     "name": "נבטים אלפלפא",
     "imgUrl": "https://storage.googleapis.com/sp-public/items/medium/631802.jpg?v=2",
+    "category": "vegtables",
     "price": 7.9
   },
   {
     "id": "8285203",
     "name": "סלק וואקום",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/1731501/8285203/medium.jpg",
+    "category": "vegtables",
     "price": 8.9
   },
   {
     "id": "930240",
     "name": "סלק",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100549/930240/medium.jpg",
+    "category": "vegtables",
     "price": 6.9
   },
   {
     "id": "930684",
     "name": "עגבניה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101322/930684/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "1214534",
     "name": "עגבניות שרי תמר לב",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/459022/1214534/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "1243368",
     "name": "לבבות חסה בשקית ארוז א.אדמה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/2048411/1243368/medium.jpg",
+    "category": "vegtables",
     "price": 10.9
   },
   {
     "id": "2093318",
     "name": "לבבות חסה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/418642/2093318/medium.jpg",
+    "category": "vegtables",
     "price": 11.9
   },
   {
     "id": "2093327",
     "name": "לוף ארוז שקית א.אדמה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/1542299/2093327/medium.jpg",
+    "category": "vegtables",
     "price": 10.9
   },
   {
     "id": "2093329",
     "name": "סלק עלים ארוז א.אדמה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/418647/2093329/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "2093325",
     "name": "סלרי עלים",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/1401409/2093325/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "2093326",
     "name": "ראש כרפס ארוז א.אדמה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/9579/2093326/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "2093320",
     "name": "תרד עלים",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/51299/2093320/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "7290103408206",
     "name": "עלי חסה שטופים",
     "imgUrl": "https://storage.googleapis.com/sp-public/gs1-products/1470/medium/7290103408206.jpg?_a=1652391902143",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "418648",
     "name": "בצל ירוק סבוליטו",
     "imgUrl": "https://storage.googleapis.com/sp-public/items/medium/418648.jpg?v=1",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "930630",
     "name": "חסה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101274/930630/medium.jpg",
+    "category": "vegtables",
     "price": 4.9
   },
   {
     "id": "953856",
     "name": "חסה עגולה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3238020/953856/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "2093346",
     "name": "בזיליקום",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/51147/2093346/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "2093321",
     "name": "כוסברה ארוז א.אדמה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/927499/2093321/medium.jpg",
+    "category": "vegtables",
     "price": 3.9
   },
   {
     "id": "2093351",
     "name": "מרווה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/693454/2093351/medium.jpg",
+    "category": "vegtables",
     "price": 5.9
   },
   {
     "id": "2093323",
     "name": "נענע",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/9583/2093323/medium.jpg",
+    "category": "vegtables",
     "price": 3.9
   },
   {
     "id": "2093317",
     "name": "פטרוזיליה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/418640/2093317/medium.jpg",
+    "category": "vegtables",
     "price": 3.9
   },
   {
     "id": "2093322",
     "name": "שמיר ארוז מהדרין",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/418646/2093322/medium.jpg",
+    "category": "vegtables",
     "price": 3.9
   },
   {
     "id": "2097236",
     "name": "פטריות שמפיניון",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/329843/2097236/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "938128",
     "name": "פטריות תפזורת גדולות למילוי",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3141046/938128/medium.jpg",
+    "category": "vegtables",
     "price": 39.9
   },
   {
     "id": "2093335",
     "name": "טינקרבל",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/726648/2093335/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "2093354",
     "name": "פלפל צילי ארוז א.אדמה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/942817/2093354/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "930222",
     "name": "פלפל אדום",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100536/930222/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "1693181",
     "name": "פלפל בהיר",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3849239/1693181/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "930210",
     "name": "פלפל חריף",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100464/930210/medium.jpg",
+    "category": "vegtables",
     "price": 6.9
   },
   {
     "id": "931740",
     "name": "פלפל ירוק",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3102381/931740/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "930238",
     "name": "פלפל כתום",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100545/930238/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "930647",
     "name": "פלפל צהוב",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101296/930647/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "931507",
     "name": "פלפל שושקה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3102331/931507/medium.jpg",
+    "category": "vegtables",
     "price": 12.9
   },
   {
     "id": "810511",
     "name": "צנוניות ארוזה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/33312/810511/medium.jpg",
+    "category": "vegtables",
     "price": 6.9
   },
   {
     "id": "936267",
     "name": "קישואים",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3110574/936267/medium.jpg",
+    "category": "vegtables",
     "price": 8.9
   },
   {
     "id": "930397",
     "name": "שום יבש",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100562/930397/medium.jpg",
+    "category": "vegtables",
     "price": 5
   },
   {
     "id": "936268",
     "name": "תירס ארוז",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3110573/936268/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "930687",
     "name": "בטטה",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101323/930687/medium.jpg",
+    "category": "vegtables",
     "price": 9.9
   },
   {
     "id": "962912",
     "name": "תפוח אדמה אדום",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3263138/962912/medium.jpg",
+    "category": "vegtables",
     "price": 4.9
   },
   {
     "id": "930666",
     "name": "תפוח אדמה לבן",
     "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101306/930666/medium.jpg",
+    "category": "vegtables",
     "price": 3.9
   },
   {
     "id": "missing-image.png",
     "name": "עירית",
     "imgUrl": "https://storage.googleapis.com/sp-public/global/frontend-icons/missing-image.png",
+    "category": "vegtables",
     "price": 5.9
   }
 ]
