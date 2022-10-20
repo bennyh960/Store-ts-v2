@@ -1,0 +1,110 @@
+[
+  {
+    "id": "930269",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100591/930269/medium.jpg",
+    "name": "אבוקדו",
+    "price": 8.99
+  },
+  {
+    "id": "930497",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101192/930497/medium.jpg",
+    "name": "אגס",
+    "price": 12.99
+  },
+  {
+    "id": "930488",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101190/930488/medium.jpg",
+    "name": "אפרסק",
+    "price": 9.99
+  },
+  {
+    "id": "930479",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101183/930479/medium.jpg",
+    "name": "נקטרינה",
+    "price": 9.99
+  },
+  {
+    "id": "930257",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100571/930257/medium.jpg",
+    "name": "בננות",
+    "price": 8.99
+  },
+  {
+    "id": "941488",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3155222/941488/medium.jpg",
+    "name": "מלון",
+    "price": 6.99
+  },
+  {
+    "id": "930266",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100577/930266/medium.jpg",
+    "name": "ענבים ירוקים",
+    "price": 24.99
+  },
+  {
+    "id": "137240",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3698887/1372408/medium.jpg",
+    "name": "ענבים שחורים",
+    "price": 19.99
+  },
+  {
+    "id": "100298",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3302711/1002986/medium.jpg",
+    "name": "אננס",
+    "price": 40.99
+  },
+  {
+    "id": "930517",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101202/930517/medium.jpg",
+    "name": "אפרסמון",
+    "price": 15.99
+  },
+  {
+    "id": "947965",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3184513/947965/medium.jpg",
+    "name": "גויאבה",
+    "price": 9.99
+  },
+  {
+    "id": "930253",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100568/930253/medium.jpg",
+    "name": "רימון",
+    "price": 7.99
+  },
+  {
+    "id": "930408",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101131/930408/medium.jpg",
+    "name": "לימון",
+    "price": 9.99
+  },
+  {
+    "id": "930493",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101188/930493/medium.jpg",
+    "name": "קלמנטינה",
+    "price": 6.99
+  },
+  {
+    "id": "940791",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3155174/940791/medium.jpg",
+    "name": "תפוזים",
+    "price": 3.99
+  },
+  {
+    "id": "930449",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3101157/930449/medium.jpg",
+    "name": "תפוח עץ גאלה",
+    "price": 9.99
+  },
+  {
+    "id": "930264",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3100575/930264/medium.jpg",
+    "name": "תפוח עץ גרני סמית",
+    "price": 9.99
+  },
+  {
+    "id": "940804",
+    "imgUrl": "https://storage.googleapis.com/sp-public/product-images/global/3155181/940804/medium.jpg",
+    "name": "תפוח עץ זהוב",
+    "price": 9.99
+  }
+]
