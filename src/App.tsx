@@ -16,10 +16,11 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/fruits" element={<Store section={"פירות"} />} />
-            {/* <Route path="/vegtables" element={<Store section={"ירקות"} storeItems={milkJson} />} /> */}
-            <Route path="/milk" element={<Store section={"חלב וגבינות"} />} />
-            {/* <Route path="/meat&fishes" element={<Store section={"בשר ודגים"} storeItems={} />} /> */}
-            <Route path="/about" element={<About />} />
+            <Route path="/vegtables" element={<Store section={"ירקות"} />} />
+            <Route path="/milk" element={<Store section={"חלב"} />} />
+            <Route path="/cheese" element={<Store section={"גבינות"} />} />
+
+            {/* <Route path="/about" element={<About />} /> */}
           </Routes>
         </Container>
       </ShoppingCartProvider>

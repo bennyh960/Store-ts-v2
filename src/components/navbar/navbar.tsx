@@ -20,12 +20,12 @@ export const Navbar = () => {
           <Nav.Link as={NavLink} to="/milk">
             חלב
           </Nav.Link>
-          <Nav.Link as={NavLink} to="/meat&fishes">
-            בשר ודגים
+          <Nav.Link as={NavLink} to="/cheese">
+            גבינות
           </Nav.Link>
-          <Nav.Link as={NavLink} to="/about">
+          {/* <Nav.Link as={NavLink} to="/about">
             About
-          </Nav.Link>
+          </Nav.Link> */}
         </Nav>
         {cartQuantity !== 0 && (
           <Button

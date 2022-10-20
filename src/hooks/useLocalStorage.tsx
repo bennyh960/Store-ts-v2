@@ -8,7 +8,7 @@ export function useLocalStorage<T>(key: string, initalValue: T | (() => T)) {
     }
 
     if (typeof initalValue === "function") {
-      return initalValue() as () => T;
+      return initalValue as () => T;
     } else {
       return initalValue;
     }
