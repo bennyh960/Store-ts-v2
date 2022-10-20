@@ -1,0 +1,10 @@
+.search-item-container {
+  width: 50%;
+  /* border: 1px solid violet; */
+  margin: 0 5rem;
+}
+
+.search-item-container > input {
+  width: 100%;
+  border-radius: 0.4rem;
+}

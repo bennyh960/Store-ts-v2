@@ -14,11 +14,9 @@ interface Product {
 type cartItemProps = {
   id: string;
   quantity: number;
-  // storeItems: Product[];
   key?: string;
 };
 
-// export const CartItem = ({ id, quantity, storeItems }: cartItemProps) => {
 export const CartItem = ({ id, quantity }: cartItemProps) => {
   const { removeFromCart } = useShoppingCart();
   const item = storeItems.find((item) => item.id === id);

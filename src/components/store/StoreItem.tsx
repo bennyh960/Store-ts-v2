@@ -14,7 +14,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
   const quantity = getItemQuantity(id);
   return (
     <Card className="h-100">
-      <Card.Img variant="top" src={imgUrl} height="250px" style={{ objectFit: "contain" }} />
+      <Card.Img variant="top" src={imgUrl} height="70px" width="70px" style={{ objectFit: "contain" }} />
       <Card.Body className="d-flex flex-column">
         <Card.Title className="d-flex justify-content-between align-items-baseline  mb-4">
           <span className="fs-5">{name}</span>

@@ -7,6 +7,14 @@ type ShoppingCartProviderProps = {
   children: ReactNode;
 };
 
+type StoreItemProps = {
+  id: string;
+  name: string;
+  price: number;
+  imgUrl: string;
+  category: string;
+};
+
 type ShoppingCartContext = {
   openCart: () => void;
   closeCart: () => void;
@@ -14,8 +22,10 @@ type ShoppingCartContext = {
   increaseCartQuantity: (id: string) => void;
   decreaseCartQuantity: (id: string) => void;
   removeFromCart: (id: string) => void;
+  getSearchData: (dataSearch: StoreItemProps[]) => void;
   cartQuantity: number;
   cartItems: CartItem[];
+  dataFromSearch: StoreItemProps[];
 };
 
 type CartItem = {
@@ -33,6 +43,7 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
   //   const [cartItems, setCartItems] = useState<CartItem[]>([]); //* before adding hook of local storage
   const [cartItems, setCartItems] = useLocalStorage<CartItem[]>("shopping-cart", []);
   const [isOpen, setIsOpen] = useState(false);
+  const [dataFromSearch, setDataFromSearch] = useState([]);
   const cartQuantity = cartItems.reduce((quantity, item) => item.quantity + quantity, 0);
 
   const openCart = () => {
@@ -83,6 +94,10 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
     });
   }
 
+  function getSearchData(dataSearch: []) {
+    setDataFromSearch(dataSearch);
+  }
+
   return (
     <ShoppingCartContext.Provider
       value={{
@@ -92,8 +107,10 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
         removeFromCart,
         openCart,
         closeCart,
+        getSearchData,
         // storeItemsFetch,
         // departmentData,
+        dataFromSearch,
         cartItems,
         cartQuantity,
       }}

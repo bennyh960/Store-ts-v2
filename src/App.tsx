@@ -7,6 +7,7 @@ import { Navbar } from "./components/navbar/navbar";
 import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 
 function App() {
+  // const searchDataFunc = (data = {});
   return (
     <>
       <ShoppingCartProvider>
