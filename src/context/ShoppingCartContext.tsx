@@ -22,7 +22,7 @@ type ShoppingCartContext = {
   increaseCartQuantity: (id: string) => void;
   decreaseCartQuantity: (id: string) => void;
   removeFromCart: (id: string) => void;
-  getSearchData: (dataSearch: StoreItemProps[]) => void;
+  getSearchData: (dataSearch: []) => void;
   cartQuantity: number;
   cartItems: CartItem[];
   dataFromSearch: StoreItemProps[];

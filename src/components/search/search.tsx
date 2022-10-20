@@ -28,7 +28,8 @@ export const SearchBar = () => {
         return itemsArr;
       });
     }, 500);
-    // console.log(data);
+
+    // @ts-ignore
     getSearchData(data);
   };
 
