@@ -1,19 +1,11 @@
-import { useState, useContext, ReactNode, createContext, useEffect } from "react";
-import { useLocation } from "react-router-dom";
+import { useState, useContext, ReactNode, createContext } from "react";
+
 import { ShopingCart } from "../components/shopingcart/ShopingCart";
 import { useLocalStorage } from "../hooks/useLocalStorage";
 
 type ShoppingCartProviderProps = {
   children: ReactNode;
 };
-
-// type StoreItemProps = {
-//   id: string;
-//   name: string;
-//   price: number;
-//   imgUrl: string;
-//   category: string;
-// };
 
 type ShoppingCartContext = {
   openCart: () => void;
@@ -22,8 +14,6 @@ type ShoppingCartContext = {
   increaseCartQuantity: (id: string) => void;
   decreaseCartQuantity: (id: string) => void;
   removeFromCart: (id: string) => void;
-  //   storeItemsFetch: (department: string) => StoreItemProps[];
-  // departmentData: StoreItemProps[];
   cartQuantity: number;
   cartItems: CartItem[];
 };
@@ -43,17 +33,7 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
   //   const [cartItems, setCartItems] = useState<CartItem[]>([]); //* before adding hook of local storage
   const [cartItems, setCartItems] = useLocalStorage<CartItem[]>("shopping-cart", []);
   const [isOpen, setIsOpen] = useState(false);
-  // const location = useLocation();
   const cartQuantity = cartItems.reduce((quantity, item) => item.quantity + quantity, 0);
-
-  // const [departmentData, setDepartmentData] = useState([]);
-
-  // useEffect(() => {
-  //   const getData = async () => {
-  //     await storeItemsFetch(location.pathname.split("/")[1]);
-  //   };
-  //   getData();
-  // }, [location]);
 
   const openCart = () => {
     setIsOpen(true);
@@ -103,13 +83,6 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
     });
   }
 
-  // async function storeItemsFetch(department: string) {
-  //   const response = await (await fetch(`./src/data/${department}.json`)).json();
-  //   console.log(response);
-  //   setDepartmentData(response);
-  //   return departmentData;
-  // }
-
   return (
     <ShoppingCartContext.Provider
       value={{
@@ -126,8 +99,6 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
       }}
     >
       {children}
-      {/* <ShopingCart isOpen={isOpen} storeItemsFetch={storeItemsFetch} /> */}
-      {/* <ShopingCart isOpen={isOpen} departmentData={departmentData} /> */}
       <ShopingCart isOpen={isOpen} />
     </ShoppingCartContext.Provider>
   );

@@ -14,7 +14,7 @@ interface Product {
 type cartItemProps = {
   id: string;
   quantity: number;
-  storeItems: Product[];
+  // storeItems: Product[];
   key?: string;
 };
 
