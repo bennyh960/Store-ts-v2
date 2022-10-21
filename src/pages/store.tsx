@@ -3,7 +3,7 @@ import { StoreItem } from "../components/store/StoreItem";
 import storeItems from "../data/items.json";
 import { useLocation } from "react-router-dom";
 import { useShoppingCart } from "../context/ShoppingCartContext";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 type storeProps = {
   section: string;
@@ -11,11 +11,17 @@ type storeProps = {
 
 export function Store({ section }: storeProps) {
   const location = useLocation();
-  const { dataFromSearch } = useShoppingCart();
+  // const [isReset, setIsReset] = useState(false);
+  let { dataFromSearch } = useShoppingCart();
+  location.state = section;
 
   useEffect(() => {
-    console.log(dataFromSearch);
-  }, []);
+    // console.log(dataFromSearch);
+    // console.log(location);
+    // setIsReset(() => true);
+
+    dataFromSearch = [];
+  }, [location.state]);
 
   const dataPerCategory = () => {
     return (
@@ -44,5 +50,5 @@ export function Store({ section }: storeProps) {
     );
   };
 
-  return <>{dataFromSearch.length > 1 ? dataPerSearch() : dataPerCategory()}</>;
+  return <>{dataFromSearch.length > 0 ? dataPerSearch() : dataPerCategory()}</>;
 }
